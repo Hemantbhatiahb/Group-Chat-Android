@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394494329912",
+    "firebase_url": "https://group-chat-e7a7b.firebaseio.com",
+    "project_id": "group-chat-e7a7b",
+    "storage_bucket": "group-chat-e7a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394494329912:android:60e4a755dab707ca0392cd",
+        "android_client_info": {
+          "package_name": "com.example.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394494329912-tu3mft1gj69nqrfb0naeavb8evrba9hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2Ec7NzK83AfLp4oNjuyX-44VmCZS2JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394494329912-tu3mft1gj69nqrfb0naeavb8evrba9hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
